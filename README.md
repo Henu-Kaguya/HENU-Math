@@ -25,21 +25,29 @@
 
 ## 各科资料仓库
 
+### 第二学年 第一学期（大二上）
+
 - 数学分析: [Mathematical-Analysis](https://github.com/Henu-Kaguya/Mathematical-Analysis)
 - 抽象代数: [Abstract-Algebra](https://github.com/Henu-Kaguya/Abstract-Algebra)
-- 实变函数: [Real-Analysis](https://github.com/Henu-Kaguya/Real-Analysis)
-- 泛函分析: [Functional-Analysis](https://github.com/Henu-Kaguya/Functional-Analysis)
 - 常微分方程: [Ordinary-Differential-Equations](https://github.com/Henu-Kaguya/Ordinary-Differential-Equations)
-- 数学物理方程: [Mathematical-Physics-Equations](https://github.com/Henu-Kaguya/Mathematical-Physics-Equations)
 - 概率论: [Probability-Theory](https://github.com/Henu-Kaguya/Probability-Theory)
-- 计算方法: [Numerical-Analysis](https://github.com/Henu-Kaguya/Numerical-Analysis)
-- 运筹学: [Operational-Research-Math](https://github.com/Henu-Kaguya/Operational-Research-Math)
-- 组合数学: [Combinatorics](https://github.com/Henu-Kaguya/Combinatorics)
-- 数据结构: [Data-Structures-Math](https://github.com/Henu-Kaguya/Data-Structures-Math)
 - 普通物理一: [General-Physics-I](https://github.com/Henu-Kaguya/General-Physics-I)
+- 数据结构: [Data-Structures-Math](https://github.com/Henu-Kaguya/Data-Structures-Math)
 - 微观经济学: [Microeconomics](https://github.com/Henu-Kaguya/Microeconomics)
 - 会计学: [Accounting](https://github.com/Henu-Kaguya/Accounting)
 - 形势与政策: [Situation-and-Policy](https://github.com/Henu-Kaguya/Situation-and-Policy)
+
+### 第三学年 第一学期（大三上）
+
+- 实变函数: [Real-Analysis](https://github.com/Henu-Kaguya/Real-Analysis)
+- 数学物理方程: [Mathematical-Physics-Equations](https://github.com/Henu-Kaguya/Mathematical-Physics-Equations)
+- 运筹学: [Operational-Research-Math](https://github.com/Henu-Kaguya/Operational-Research-Math)
+- 组合数学: [Combinatorics](https://github.com/Henu-Kaguya/Combinatorics)
+
+### 高年级专业方向/选修（大三下及以上）
+
+- 泛函分析: [Functional-Analysis](https://github.com/Henu-Kaguya/Functional-Analysis)
+- 计算方法: [Numerical-Analysis](https://github.com/Henu-Kaguya/Numerical-Analysis)
 
 ---
 
